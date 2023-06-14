@@ -11,3 +11,12 @@
 * Explore o ecossistema do C#, incluindo a documentação e recursos úteis, como Stackoverflow e Office 2019
 * Crie funções para mostrar o menu principal e registrar bandas em listas e dicionários
 * Aprenda a avaliar bandas e calcular médias com base nos dados registrados
+
+ ## C#: aplicando a Orientação a Objetos
+* Faça esse curso de C# e:
+* Crie e manipule classes e objetos em C#
+* Utilize propriedades e métodos para gerenciar atributos
+* Desenvolva habilidades em programação orientada a objetos
+* Trabalhe com listas e lambdas em C#
+* Gerencie relacionamentos entre classes no Visual Studio
+* Aplique construtores e parâmetros em C#
